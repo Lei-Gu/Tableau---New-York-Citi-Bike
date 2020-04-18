@@ -39,36 +39,6 @@ https://public.tableau.com/profile/lei.gu8856#!/vizhome/NewYorkCitiBike2012Jan-F
 
 * Top and bottom 10 station for outgoing trips.
 
-### Single bike dashboard:
-
-* Gives an information about a particular bike.
-
-* Map shows all the station where the bike has ever been and the number of it's rides from that stations.
-
-* Overall information about total number of rides, duration and average trip length.
-
-* Age distribution by age groups.
-
-* Customer type.
-
-* Trips by duration.
-
-### Other sheets:
-
-* Map with outgoing trips.
-
-* Trips by length depending on the day and time.
-
-* Station popularity by month.
-
-* Top/Bottom 10 end stations.
-
-* Rides by age by station.
-
-* Bikes rotation by station.
-
-* Duration by age.
-
 
 ## Steps
 
