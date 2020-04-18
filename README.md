@@ -1,5 +1,3 @@
-# Tableau---New-York-Citi-Bike
-
 # New York Citi Bike Data Analysis
 
 As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
