@@ -43,6 +43,7 @@ https://public.tableau.com/profile/lei.gu8856#!/vizhome/NewYorkCitiBike2012Jan-F
 ## Steps
 
 **1. Data loading and cleaning**
+
 Using Python to consolidate datasets and rename columns.
 
 **2. Visualization in Tableau**
