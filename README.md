@@ -2,7 +2,6 @@
 
 As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
-**There are two datasets that were used in the analysis**
 Ride Data from New York (Jan 2020 - Feb 2020), a Public version of Tableau has a limit of 15 millions rows for a single dataset
 
 **Tableau Dashboards can be found here:**
