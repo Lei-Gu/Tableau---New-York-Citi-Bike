@@ -5,7 +5,7 @@ As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wi
 Ride Data from New York (Jan 2020 - Feb 2020), a Public version of Tableau has a limit of 15 millions rows for a single dataset
 
 **Tableau Dashboards can be found here:**
-https://public.tableau.com/profile/lei.gu8856#!/vizhome/NewYorkCitiBike2012Jan-Feb/NewYorkCitiBike
+https://public.tableau.com/profile/lei.gu8856#!/vizhome/NewYorkCitiBikeWinterAnalysis2019-2020/NewYorkCitiBike
 
 
 ## Tableau workbook description
