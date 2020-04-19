@@ -9,6 +9,7 @@ https://public.tableau.com/profile/lei.gu8856#!/vizhome/NewYorkCitiBikeWinterAna
 
 
 ## Tableau workbook description
+![Dashboard](Dashboard.JPG)
 
 ### Overview dashboard:
 
